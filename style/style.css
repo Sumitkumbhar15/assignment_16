@@ -65,3 +65,36 @@ padding-right: 80px;
     margin-right: 40%;
     margin-left: 45%;
 }
+
+.sec-img{
+    height: 250px;
+    border-radius: 20px;
+   }
+
+   .sub-div{
+    background-color: #F8F3D9;
+    width: 200px;
+    padding: 10px;
+    margin: 40px;
+    border-radius: 10px;
+    border: 1px solid red;
+    display: inline-block;
+   }
+
+   .sub-div:hover{
+    border-radius: 40px;
+    border: 5px solid red;
+    transition: 0.5s;
+   }
+
+   .fest-button{
+    background-color: #504B38;
+    color: aliceblue;
+    border-radius: 50px;
+    margin-left: 50px;
+   }
+
+.ganesh-festival{
+    margin-left: 30px;
+    color: brown;
+}
